@@ -8,7 +8,7 @@
 
 💪 Empowered to make every moment count
 
-📫 how to contact me: [![Telegram Badge](https://img.shields.io/badge/-Anastasiiadedela-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ddl_asya) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nastyadedela@gmail.com)
+📫 how to contact me:  [![Telegram Badge](https://img.shields.io/badge/-Anastasiiadedela-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ddl_asya) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nastyadedela@gmail.com)
 
 ---
 
